@@ -1,5 +1,5 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "richard "\n";
+print "richard  \n";
 
 ?>
